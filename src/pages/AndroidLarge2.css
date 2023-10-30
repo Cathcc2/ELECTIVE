@@ -1,0 +1,91 @@
+.easily-monitor-your {
+  margin: 0;
+}
+.easily-monitor-your-container {
+  position: absolute;
+  top: 535px;
+  left: 15px;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 337px;
+  height: 113px;
+}
+.skip1 {
+  top: 736px;
+  left: -111px;
+  width: 337px;
+  height: 113px;
+  cursor: pointer;
+}
+.next1,
+.skip1,
+.track-your-heatlh {
+  position: absolute;
+  display: inline-block;
+}
+.next1 {
+  top: 736px;
+  left: 148px;
+  font-weight: 600;
+  width: 337px;
+  height: 113px;
+  cursor: pointer;
+}
+.track-your-heatlh {
+  top: 482px;
+  left: -39px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-open-sans);
+  color: var(--color-lightskyblue-100);
+  width: 440px;
+  height: 38px;
+}
+.android-large-2-child,
+.android-large-2-inner,
+.android-large-2-item {
+  position: absolute;
+  top: 636px;
+  left: 162px;
+  border-radius: 50%;
+  background-color: var(--color-lightskyblue-200);
+  width: 12px;
+  height: 12px;
+}
+.android-large-2-inner,
+.android-large-2-item {
+  left: 178px;
+  background-color: var(--color-lightskyblue-100);
+}
+.android-large-2-inner {
+  left: 194px;
+  background-color: var(--color-lightskyblue-200);
+}
+.bipolar-disorder-cuate-1 {
+  position: absolute;
+  top: 82px;
+  left: 19px;
+  width: 342px;
+  height: 388px;
+  object-fit: cover;
+}
+.epback-icon3 {
+  position: absolute;
+  top: 29px;
+  left: 19px;
+  width: 26px;
+  height: 30px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.android-large-2 {
+  position: relative;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-aliceblue-100);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-lightskyblue-300);
+  font-family: var(--font-roboto);
+}

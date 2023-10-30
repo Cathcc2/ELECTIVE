@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;600;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-open-sans: "Open Sans";
+  --font-poppins: Poppins;
+  --font-nunito: Nunito;
+  --font-montserrat: Montserrat;
+  --font-inter: Inter;
+  --font-inknut-antiqua: "Inknut Antiqua";
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-5xl: 24px;
+  --font-size-17xl-7: 36.7px;
+  --font-size-4xl-9: 23.9px;
+  --font-size-2xs: 11px;
+  --font-size-9xl-3: 28.3px;
+  --font-size-lg: 18px;
+  --font-size-base: 16px;
+  --font-size-xs: 12px;
+
+  /* Colors */
+  --color-aliceblue-100: #eff4fa;
+  --color-lightskyblue-100: #72c4f4;
+  --color-lightskyblue-200: rgba(114, 196, 244, 0.28);
+  --color-lightskyblue-300: rgba(114, 196, 244, 0.88);
+  --color-gray-100: #7f7f7f;
+  --color-black: #000;
+  --white: #fff;
+  --color-skyblue: #45b3cb;
+  --color-whitesmoke-100: #f9f8f7;
+  --color-whitesmoke-200: #f7f7f7;
+  --color-whitesmoke-300: #ecf2f3;
+  --color-whitesmoke-400: rgba(247, 247, 247, 0.5);
+  --color-darkslategray-100: #2a445d;
+  --color-lightsteelblue: #8fa7d7;
+  --color-silver: #c4c4c4;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+  --gap-xl: 20px;
+  --gap-xs: 12px;
+  --gap-11xl: 30px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-5xs: 8px;
+  --br-21xl: 40px;
+  --br-23xl: 42px;
+  --br-19xl: 38px;
+  --br-39xl-4: 58.4px;
+  --br-11xs-5: 1.5px;
+  --br-11xs: 2px;
+  --br-4xs: 9px;
+  --br-xs: 12px;
+  --br-mini: 15px;
+  --br-6xl: 25px;
+
+  /* Effects */
+  --sadfsf: 0px 4px 6px rgba(0, 0, 0, 0.25);
+}

@@ -1,0 +1,122 @@
+.android-large-4-child {
+  position: absolute;
+  top: 34px;
+  left: 20px;
+  border-radius: var(--br-3xs);
+  width: 355px;
+  height: 332px;
+}
+.up {
+  color: var(--color-lightskyblue-100);
+}
+.sign-up {
+  position: absolute;
+  top: 301px;
+  left: -141px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-family: var(--font-open-sans);
+  width: 440px;
+  height: 38px;
+}
+.tablet-login-rafiki-2-1 {
+  position: absolute;
+  top: 47px;
+  left: 11px;
+  width: 372px;
+  height: 295px;
+  object-fit: cover;
+}
+.create-a-new {
+  position: absolute;
+  top: 336px;
+  left: -62px;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 337px;
+  height: 113px;
+}
+.android-large-4-item,
+.epback-icon {
+  position: absolute;
+  top: 393px;
+  left: 28px;
+}
+.epback-icon {
+  top: 34px;
+  left: 34px;
+  width: 26px;
+  height: 30px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.android-large-4-inner,
+.frame {
+  border: 0;
+  background-color: transparent;
+  left: 28px;
+}
+.android-large-4-inner {
+  position: absolute;
+  top: 463px;
+}
+.frame {
+  top: 538px;
+}
+.frame,
+.frame1,
+.frame2 {
+  position: absolute;
+}
+.frame1 {
+  top: 614px;
+  left: 22px;
+}
+.frame2 {
+  top: 668px;
+  left: calc(50% - 97px);
+}
+.join-as-anonymous {
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: calc(50% - 127px);
+  color: inherit;
+  display: inline-block;
+  width: 254px;
+  height: 113px;
+  cursor: pointer;
+}
+.login {
+  text-decoration: underline;
+  font-weight: 600;
+}
+.already-have-an-container {
+  position: absolute;
+  top: 24px;
+  left: calc(50% - 127px);
+  display: inline-block;
+  width: 254px;
+  height: 113px;
+  cursor: pointer;
+}
+.frame3 {
+  position: absolute;
+  top: 723px;
+  left: 85px;
+  width: 254px;
+  height: 137px;
+  overflow: hidden;
+  color: var(--color-lightskyblue-300);
+}
+.android-large-4 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-aliceblue-100);
+  width: 398px;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

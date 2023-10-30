@@ -1,0 +1,601 @@
+.eclipse {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background: linear-gradient(180deg, rgba(0, 194, 255, 0), #b4dbe3);
+  filter: blur(200px);
+  width: 1200.3px;
+  height: 1200.3px;
+}
+.eclipse,
+.eclipse-parent,
+.rectangle-div {
+  position: absolute;
+  transform: rotate(-45deg);
+  transform-origin: 0 0;
+}
+.rectangle-div {
+  top: 171.8px;
+  left: 612.8px;
+  background: linear-gradient(180deg, rgba(24, 75, 255, 0), #1790ff);
+  filter: blur(200px);
+  width: 576.7px;
+  height: 818.3px;
+}
+.eclipse-parent {
+  top: 746.8px;
+  left: 558px;
+  width: 1200.3px;
+  height: 1373.1px;
+  opacity: 0.6;
+  mix-blend-mode: normal;
+}
+.eclipse1 {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background: linear-gradient(180deg, rgba(0, 194, 255, 0), #2ad8ff);
+  filter: blur(200px);
+  width: 1200.3px;
+  height: 1200.3px;
+}
+.eclipse-group,
+.eclipse1,
+.group-child5 {
+  position: absolute;
+  transform: rotate(135deg);
+  transform-origin: 0 0;
+}
+.group-child5 {
+  top: -171.8px;
+  left: -612.8px;
+  background: linear-gradient(180deg, rgba(24, 75, 255, 0), #17d5ff);
+  filter: blur(200px);
+  width: 576.7px;
+  height: 818.3px;
+}
+.eclipse-group {
+  top: 337.9px;
+  left: 998.7px;
+  width: 1200.3px;
+  height: 1373.1px;
+}
+.design {
+  font-weight: 300;
+}
+.designshot,
+.tm {
+  position: relative;
+}
+.tm {
+  font-size: 8px;
+}
+.designshot-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.frame-wrapper,
+.layer-2-icon {
+  position: absolute;
+  top: 7.5px;
+  left: 205px;
+  width: 155px;
+  height: 26px;
+}
+.layer-2-icon {
+  top: 8.5px;
+  left: 0;
+  width: 169px;
+}
+.group-div,
+.line-icon {
+  position: absolute;
+  top: 0;
+  left: 187px;
+  width: 0;
+  height: 42px;
+}
+.group-div {
+  top: 1057px;
+  left: 765px;
+  width: 360px;
+}
+.listing,
+.listing1 {
+  position: absolute;
+  top: 0;
+  left: 329px;
+  border-radius: var(--br-6xl);
+  box-shadow: 0 100px 80px rgba(56, 49, 4, 0.07),
+    0 41.8px 33.42px rgba(56, 49, 4, 0.05),
+    0 22.3px 17.87px rgba(56, 49, 4, 0.04),
+    0 12.5px 10.02px rgba(56, 49, 4, 0.04), 0 6.7px 5.32px rgba(56, 49, 4, 0.03),
+    0 2.8px 2.21px rgba(56, 49, 4, 0.02);
+  width: 306px;
+  height: 664px;
+}
+.listing1 {
+  top: 41px;
+  left: 0;
+  width: 307px;
+  height: 665px;
+}
+.listing-parent {
+  position: absolute;
+  top: 154px;
+  left: 472px;
+  width: 635px;
+  height: 706px;
+}
+.halo {
+  margin: 0;
+}
+.halo-gumilar-jae-container {
+  position: absolute;
+  top: 149px;
+  left: 30px;
+  font-size: var(--font-size-5xl);
+  line-height: 32px;
+}
+.periksa-kesehatan-sendiri {
+  flex: 1;
+  position: relative;
+  line-height: 32px;
+}
+.lihat-semua {
+  position: relative;
+  font-size: var(--font-size-xs);
+  line-height: 32px;
+  color: var(--color-skyblue);
+  text-align: right;
+}
+.periksa-kesehatan-sendiri-parent {
+  position: absolute;
+  top: 611px;
+  left: 30px;
+  width: 315px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.group-child6,
+.group-child7,
+.group-child8 {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  border-radius: var(--br-11xs-5);
+  background-color: var(--color-skyblue);
+  width: 20px;
+  height: 2px;
+}
+.group-child7,
+.group-child8 {
+  top: 8px;
+  left: 0;
+}
+.group-child8 {
+  top: 16px;
+  left: 4px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 44px;
+  left: 321px;
+  width: 24px;
+  height: 18px;
+}
+.fluentchat-multiple-24-filled-icon {
+  position: relative;
+  width: 43px;
+  height: 43px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.dokter {
+  position: relative;
+  font-size: var(--font-size-xs);
+  color: var(--color-whitesmoke-400);
+}
+.konsultasi-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.fluentchat-multiple-24-filled-container,
+.fluentchat-multiple-24-filled-group,
+.fluentchat-multiple-24-filled-parent {
+  align-self: stretch;
+  border-radius: var(--br-mini);
+  width: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  gap: var(--gap-11xl);
+}
+.fluentchat-multiple-24-filled-parent {
+  background-color: var(--color-skyblue);
+}
+.fluentchat-multiple-24-filled-container,
+.fluentchat-multiple-24-filled-group {
+  background-color: #ed7290;
+}
+.fluentchat-multiple-24-filled-container {
+  background-color: #e69850;
+}
+.frame-parent {
+  position: absolute;
+  top: 243px;
+  left: 30px;
+  height: 150px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-base);
+  color: var(--color-whitesmoke-200);
+}
+.junehealth-home-child {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  border-radius: 14px;
+  width: 47px;
+  height: 47px;
+  object-fit: cover;
+}
+.junehealth-home-item {
+  position: absolute;
+  top: 57px;
+  left: 85px;
+  width: 10px;
+  height: 5px;
+  display: none;
+}
+.icbaseline-water-drop-icon {
+  position: absolute;
+  top: 477px;
+  left: 415px;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+}
+.hasil-medical-check-up-parent {
+  width: 315px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.general-blood-analysis {
+  flex: 1;
+  position: relative;
+  line-height: 32px;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  height: 32px;
+}
+.icbaseline-water-drop-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.frame-item {
+  position: relative;
+  width: 4px;
+  height: 8px;
+}
+.frame-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-whitesmoke-300);
+  width: 316px;
+  height: 48px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 8px 16px;
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+}
+.frame-container {
+  position: relative;
+  width: 316px;
+  height: 48px;
+}
+.group-child9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-whitesmoke-300);
+  width: 315px;
+  height: 48px;
+}
+.bxbx-search-alt-icon {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.swab-antigen {
+  position: relative;
+  line-height: 32px;
+}
+.bxbx-search-alt-parent {
+  position: absolute;
+  top: 8px;
+  left: 18px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.group-child10 {
+  position: absolute;
+  top: 20px;
+  left: 295px;
+  width: 4px;
+  height: 8px;
+}
+.rectangle-parent1 {
+  position: relative;
+  width: 315px;
+  height: 48px;
+}
+.frame-group,
+.group-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.group-parent1 {
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-base);
+}
+.frame-group {
+  position: absolute;
+  top: 423px;
+  left: 30px;
+  gap: var(--gap-xl);
+}
+.frame-inner {
+  position: relative;
+  width: 42px;
+  height: 42px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icround-health-and-safety-parent {
+  border-radius: var(--br-xs);
+  background-color: var(--color-whitesmoke-200);
+  width: 95px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.frame-parent2 {
+  position: absolute;
+  top: 673px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xs);
+  gap: var(--gap-3xs);
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.junehealth-home {
+  position: absolute;
+  top: -16px;
+  left: -16px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-whitesmoke-200);
+  backdrop-filter: blur(60px);
+  border: 16px solid var(--white);
+  box-sizing: border-box;
+  width: 407px;
+  height: 844px;
+  overflow: hidden;
+}
+.junehealth-walkthrough-child {
+  position: absolute;
+  top: -95px;
+  left: -99px;
+  border-radius: 50%;
+  background-color: var(--color-whitesmoke-300);
+  width: 572px;
+  height: 653px;
+}
+.doctor-1-icon {
+  position: absolute;
+  top: 270px;
+  left: 58px;
+  width: 269px;
+  height: 231px;
+  overflow: hidden;
+}
+.group-child11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--white);
+  width: 42px;
+  height: 42px;
+}
+.group-child12 {
+  position: absolute;
+  top: 27px;
+  left: 24px;
+  width: 6px;
+  height: 12px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 34px;
+  left: 30px;
+  width: 42px;
+  height: 42px;
+}
+.skip {
+  position: absolute;
+  top: 39px;
+  left: 320px;
+  font-size: var(--font-size-xs);
+  line-height: 32px;
+  text-align: right;
+}
+.your-best-medical {
+  position: relative;
+  line-height: 32px;
+  display: inline-block;
+  width: 248px;
+}
+.dapatkan-layanan-medis {
+  position: relative;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 260px;
+}
+.your-best-medical-assistant-parent {
+  position: absolute;
+  top: 574px;
+  left: 57px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  color: var(--color-black);
+}
+.holadok {
+  position: absolute;
+  top: 182px;
+  left: 110px;
+  font-size: 36px;
+  line-height: 32px;
+}
+.group-child13,
+.group-child14,
+.group-child15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-silver);
+  width: 6px;
+  height: 6px;
+}
+.group-child14,
+.group-child15 {
+  left: 42px;
+}
+.group-child15 {
+  left: 12px;
+  background-color: var(--color-skyblue);
+  width: 24px;
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: 706px;
+  left: 163px;
+  width: 48px;
+  height: 6px;
+}
+.junehealth-walkthrough-item {
+  position: absolute;
+  top: 728px;
+  left: 30px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-skyblue);
+  width: 315px;
+  height: 52px;
+}
+.next {
+  position: absolute;
+  top: 742px;
+  left: 167px;
+  color: var(--white);
+}
+.junehealth-walkthrough {
+  position: absolute;
+  top: 28px;
+  left: 466px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-whitesmoke-200);
+  backdrop-filter: blur(60px);
+  border: 16px solid var(--white);
+  box-sizing: border-box;
+  width: 407px;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  color: var(--color-skyblue);
+}
+.junehealth-home-parent {
+  position: absolute;
+  top: 128px;
+  left: 517px;
+  width: 857px;
+  height: 856px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-nunito);
+}
+.health-app {
+  position: absolute;
+  top: 2565px;
+  left: 2452px;
+  background-color: #1f6ea7;
+  width: 1891px;
+  height: 1135px;
+  overflow: hidden;
+}
+.elegant-and-minimalist-medical {
+  position: absolute;
+  top: 196px;
+  left: 0;
+  width: 433px;
+  height: 451px;
+  object-fit: cover;
+}
+.logo {
+  position: relative;
+  background-color: #137084;
+  width: 100%;
+  height: 844px;
+  overflow-x: auto;
+  text-align: left;
+  font-size: 21px;
+  color: var(--white);
+  font-family: var(--font-montserrat);
+}

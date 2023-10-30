@@ -1,0 +1,102 @@
+.explore-a-vast {
+  position: absolute;
+  top: 535px;
+  left: 15px;
+  display: inline-block;
+  width: 337px;
+  height: 113px;
+}
+.login1 {
+  text-decoration: underline;
+  font-weight: 600;
+}
+.already-have-an-container1 {
+  position: absolute;
+  top: 736px;
+  left: calc(50% - 127px);
+  font-size: var(--font-size-mini);
+  color: var(--color-lightskyblue-300);
+  display: inline-block;
+  width: 254px;
+  height: 113px;
+}
+.access-valuable-resources {
+  position: absolute;
+  top: 482px;
+  left: -39px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-family: var(--font-open-sans);
+  color: var(--color-lightskyblue-100);
+  width: 440px;
+  height: 38px;
+}
+.android-large-3-child,
+.android-large-3-inner,
+.android-large-3-item {
+  position: absolute;
+  top: 636px;
+  left: 156px;
+  border-radius: 50%;
+  background-color: var(--color-lightskyblue-200);
+  width: 12px;
+  height: 12px;
+}
+.android-large-3-inner,
+.android-large-3-item {
+  left: 172px;
+}
+.android-large-3-inner {
+  left: 188px;
+  background-color: var(--color-lightskyblue-100);
+}
+.learning-cuate-1-icon {
+  position: absolute;
+  top: 94px;
+  left: 20px;
+  width: 329px;
+  height: 388px;
+  object-fit: cover;
+}
+.android-large-3-child1 {
+  position: absolute;
+  top: 681px;
+  left: calc(50% - 110px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightskyblue-100);
+  width: 220px;
+  height: 41px;
+  cursor: pointer;
+}
+.get-started {
+  position: absolute;
+  top: 692px;
+  left: 132px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.88);
+  display: inline-block;
+  width: 104px;
+  height: 20px;
+}
+.epback-icon2 {
+  position: absolute;
+  top: 29px;
+  left: 19px;
+  width: 26px;
+  height: 30px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.android-large-3 {
+  position: relative;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-aliceblue-100);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
